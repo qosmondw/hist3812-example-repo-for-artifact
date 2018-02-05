@@ -6,3 +6,7 @@ Minerals and Gemstones have always been a part of our society for as long as his
 
 Scanning this object in order to create a 3D Model was proven a challenge time and time again. Being that this is a mineral with many different types of unusual shading and cutting on its surface, making an exact model was extremely difficult and more often than not, did not turn out as planned or did not turn out as anything at all.  A lesson learned in this scenario is to find a more solid object that is more robust and that is able to be scanned fully such as a statue, small artifact, small building, etc… 
 
+I am excited to build upon this model and transition it back into the physical world through the sturcture of this course. I believe that my model is very open to ideas and interpretation as this mineral is used in a variety of different aspects and has a wide range of uses. 
+
+A more in-depth and interesting article about Orange Calcite can be found by viewing this link: https://meanings.crystalsandjewelry.com/orange-calcite/
+
