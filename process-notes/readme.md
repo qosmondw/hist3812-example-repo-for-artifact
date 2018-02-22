@@ -10,4 +10,6 @@ Update: tried another scan of the model, however due to lighting it is not seemi
 
 Update: for an alternative I will post a article link where the picture of Orange Calcite can be viewed. Although not the same colour blend and cut that I personally own, it will still serve the purpose of giving the reader a visual of what it is supposed to look like on average.
 
+Module 2 Work: Downloading MeshMixer, will start with this one since professor said it's easier. Glad it's avaliable on Mac!
+
 
