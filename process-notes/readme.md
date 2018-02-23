@@ -13,6 +13,6 @@ Update: for an alternative I will post a article link where the picture of Orang
 Module 2 Work: Downloading MeshMixer, will start with this one since professor said it's easier. Glad it's avaliable on Mac!
 1. First time opening MehsMixer. Seems like a good UI for someone like me who does not have much graphical design experience, currently going attmept to insert the Orange Calcite model in and see what we can come up with.
 2. Model successfully loaded into meshmixer, what I did was put the .obj file of the model and took about 10 seconds to load itself in, currently playing around with the different features, I really like to sculpt tool and feel it would be useful for minor details.. will see later on
-
+3. What I want do is to duplicate this model to serve the purpose as "building blocks" into something else. For some reaosn when I try to duplicate it does not find my .obj file, will look more into this. Found another (slower) way of going about this is by using the mirror tool. It mirrors the model and palces it right next to the original as if if were in an actual mirror, neat stuff!
 
 
