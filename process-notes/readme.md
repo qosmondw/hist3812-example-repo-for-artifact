@@ -20,3 +20,6 @@ Module 2 Work: Downloading MeshMixer, will start with this one since professor s
 6. Loaded the bottle into the meshmixe program. This was done by clicking Import and apprehending the mesh to the existing one so that it does not delete anything. Now onto the step of trying to get the hands of the mesh to be in the place I want them to be, however, so far so good!
 7. They say good things come to an end, running into an issue, I'm trying to move the hands around but I just cannot seem to get it! Will look things up and ask around to see what I can do to rectify this on my end
 8. Rectified the issue, it still doesnt work the way I wanted it to do but will do for now, simply just moved the glass bottle near the hands using the move tools, will have to do sadly, but at least it still looks decent enough to move forward. 
+
+Module 3 Work
+1. I decided it would be best to do a visua novel here to illustrate the history of calcite and its uses. Obviously I will make it exciting and fun during this process. Will use the applicaton RenPy for this which donwloaded on my machine successfully, now that is is installed lets get to the nitty-gritty and get the ball rolling on the module. 
