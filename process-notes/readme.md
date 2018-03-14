@@ -23,3 +23,4 @@ Module 2 Work: Downloading MeshMixer, will start with this one since professor s
 
 Module 3 Work
 1. I decided it would be best to do a visua novel here to illustrate the history of calcite and its uses. Obviously I will make it exciting and fun during this process. Will use the applicaton RenPy for this which donwloaded on my machine successfully, now that is is installed lets get to the nitty-gritty and get the ball rolling on the module. 
+2. What I plan to do is to define 4 characters that will be used for my visual novel, renpy allows you to do this with such ease by simply coding "define" blank as blank, for example define e as" Emily" now everytime I want Emily to say something I just use the letter "e" instead of writing out the full name 50 million times over!!
