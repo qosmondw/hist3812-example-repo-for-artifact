@@ -27,3 +27,4 @@ Module 3 Work
 3. Added my 4 characters successfully, really simple to use so far! Now lets get into making the visual novel
 4. Added in the background by coding it as follows, simply type "scene" and then the file name of the image you itend to use and it will show up as the background
 5. Finally added in a character persona, by coding "show" then the character file name used. Works wonderfully, so far so good!
+6. I am running into a bit of a problem, nothing major but it would make the entire thing visually appealing. I want to know how I can resize the images used (my background for specific) in order to fit the entire screen so I dont see the grey background, but thats what my good friend google is for right???
