@@ -25,3 +25,4 @@ Module 3 Work
 1. I decided it would be best to do a visua novel here to illustrate the history of calcite and its uses. Obviously I will make it exciting and fun during this process. Will use the applicaton RenPy for this which donwloaded on my machine successfully, now that is is installed lets get to the nitty-gritty and get the ball rolling on the module. 
 2. What I plan to do is to define 4 characters that will be used for my visual novel, renpy allows you to do this with such ease by simply coding "define" blank as blank, for example define e as" Emily" now everytime I want Emily to say something I just use the letter "e" instead of writing out the full name 50 million times over!!
 3. Added my 4 characters successfully, really simple to use so far! Now lets get into making the visual novel
+4. Added in the background by coding it as follows, simply type "scene" and then the file name of the image you itend to use and it will show up as the background
