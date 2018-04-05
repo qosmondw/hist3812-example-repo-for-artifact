@@ -37,4 +37,5 @@ Module 3 Work
 10.5 (Side Note: Not sure why but I wanted to get my remixed model in there, but could not! Whenever I make it PNG, it drastically reduces the quality to a pixeleated form. Now, this is not like the character sprites where I can simply resize the image to fit because there are so many attachments to this. Now, I know there might be a way to do this in Photoshop except I do not have this program and it is very expensive to obtain. I would have really loved for this to work and very dissapointed that I am not able to put this in as it is very key to the module at hand. However, I hope the rest of the module work that I have submitted is suitable) :) 
 11. To conclude, easy to use, just requires some third party programming to really get everything you want in there! But nevertheless super easy to use and not much diffculites arisen! Great program!!
 Module 4:
-Will use the HP Reveal to do my augmented reality experience, althought the link to get started isnt much use which is quite sad, just tells you the steps without going in depth. Oh well, google exists for a reason right
+1. Will use the HP Reveal to do my augmented reality experience, althought the link to get started isnt much use which is quite sad, just tells you the steps without going in depth. Oh well, google exists for a reason right
+2. Okay,  
