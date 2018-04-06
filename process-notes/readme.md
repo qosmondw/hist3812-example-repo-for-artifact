@@ -36,6 +36,14 @@ Module 3 Work
 10. Perfect! Finally, technology works in my favour! All complete and looks quite good if I do say so myself. This program is so easy to learn and the link Dr. Graham has provided us is super wonderful if you want to get a basic knowledge and run-down of how this program works. Me having a Python background made this much easier as this program is Python based but a bit of a cookie cutter version of it with easier functions so the average individual with little to no coding experience can figure out and make amazing content.
 10.5 (Side Note: Not sure why but I wanted to get my remixed model in there, but could not! Whenever I make it PNG, it drastically reduces the quality to a pixeleated form. Now, this is not like the character sprites where I can simply resize the image to fit because there are so many attachments to this. Now, I know there might be a way to do this in Photoshop except I do not have this program and it is very expensive to obtain. I would have really loved for this to work and very dissapointed that I am not able to put this in as it is very key to the module at hand. However, I hope the rest of the module work that I have submitted is suitable) :) 
 11. To conclude, easy to use, just requires some third party programming to really get everything you want in there! But nevertheless super easy to use and not much diffculites arisen! Great program!!
+
 Module 4:
 1. Will use the HP Reveal to do my augmented reality experience, althought the link to get started isnt much use which is quite sad, just tells you the steps without going in depth. Oh well, google exists for a reason right
-2. Okay,  
+2. Okay, looks easy enough! Easily created a trigger image by pressing thr button titled "upload trigger image" now to add the overlay, I see in the FAQ's that HP reveal has issues so lets hope I can get my other model that I used in module 2 in there successfully, will log any failurs or messages if need be.
+3. Successfully created the .dae file, one small tidbit, object seems to appear just plain white instead of having all the materials on, ill try to fix it but will also action forward on it so I can get this completed
+4. Another issue, TAR file will not work and not picking up my files even though I selected it specifically argggh! will show what I see in note 4.5.
+4.5 Error message states: "tar: no files or directories specified", even when I specify my file it still shows, will try again and google a work around
+4.5 Now I'm just getting this random message that does not make sense because I specifically made the folder to be named as such so not sure why this is not working error message states "tar: hapy.dae: Cannot stat: No such file or directory
+tar: Error exit delayed from previous errors".
+5. Now that I have all these errors and no solutions, not too sure what to do now.. :'( 
+
