@@ -46,4 +46,5 @@ Module 4:
 4.5 Now I'm just getting this random message that does not make sense because I specifically made the folder to be named as such so not sure why this is not working error message states "tar: hapy.dae: Cannot stat: No such file or directory
 tar: Error exit delayed from previous errors".
 5. Now that I have all these errors and no solutions, not too sure what to do now.. :'( 
+6. Tried watching a YouTube video and my TAR creation file is still not working. Really confused as to what is truly going on behind the scenes here, what I can do is make a screenshot file in these notes in order for professor to see what I am seeing in full, because this is simply not making much sense to me, didn't know creating a file would be this hard.. or maybe I'm not getting it all.. Who knows!
 
