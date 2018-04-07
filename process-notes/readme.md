@@ -47,4 +47,4 @@ Module 4:
 tar: Error exit delayed from previous errors".
 5. Now that I have all these errors and no solutions, not too sure what to do now.. :'( 
 6. Tried watching a YouTube video and my TAR creation file is still not working. Really confused as to what is truly going on behind the scenes here, what I can do is make a screenshot file in these notes in order for professor to see what I am seeing in full, because this is simply not making much sense to me, didn't know creating a file would be this hard.. or maybe I'm not getting it all.. Who knows!
-
+7. Still cannot seem to make the TAR file, I'm really sad about this, I had such a good idea nd it went up in the air now. I'll try one more time but I'm really running out of time here so not sure what I can do in order to get something going
